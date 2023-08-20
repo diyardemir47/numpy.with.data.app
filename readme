@@ -1,0 +1,9 @@
+Bu program, basit veri analizi ve görselleştirme işlemleri gerçekleştirmek için tasarlanmış bir araçtır. Kullanıcıya veri yükleme, temel analiz yapma ve veriyi çeşitli grafiklerle görselleştirme imkanı sunar. Program, aşağıdaki temel işlevleri sağlar:
+
+Veri Yükleme: Kullanıcı, CSV formatındaki veri dosyalarını yükleyebilir. Yüklenen veri daha sonra analiz ve görselleştirme için kullanılır.
+
+Temel Analiz: Yüklenen veri üzerinde temel istatistik analizleri gerçekleştirebilir. Ortalama, medyan, varyans, standart sapma, minimum ve maksimum değerleri gibi temel istatistiksel bilgileri elde edebilir.
+
+Veri Görselleştirme: Kullanıcı, yüklenen veriyi histogram, scatter plot veya çizgi grafiği gibi farklı grafik türleriyle görselleştirebilir. Bu görselleştirmeler sayesinde verinin dağılımı, ilişkileri ve değişimleri daha iyi anlaşılabilir hale getirilir.
+
+Programın ana amacı, kullanıcılara verileri daha iyi anlamalarına yardımcı olmak ve verileri görsel olarak analiz etmelerini sağlamaktır. Aynı pencere içerisinde farklı analiz ve görselleştirmeleri kolayca gerçekleştirerek veri hakkında daha derinlemesine bilgi edinmelerini sağlar.
